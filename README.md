@@ -1,13 +1,17 @@
 <h1 align="center">Hi 👋, I'm Simika Mallick</h1>
 <h3 align="center">A passionate 3rd year student of IEM(Kolkata)</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=simikamallick&label=Profile%20views&color=0e75b6&style=flat" alt="simikamallick" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=simikamallick&label=Profile%20views&color=0e75b6&style=flat" alt="simikamallick" />
+<p align="center">
+  <img width="460" height="340" align="right" alt="Funny GIF" src="https://i.pinimg.com/originals/e8/28/13/e82813ff553d60346f2895ee8f2175c7.gif" />
+</p>
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=simikamallick" alt="simikamallick" /></a> </p>
+
 
 - 🌱 I’m currently learning **Fundamentals of Core Java**
 
-- 💬 Ask me about **React+Vite**
+- 💬 Ask me about **ANYTHING YOU WANT TO KNOW**
 
 - 📫 How to reach me **simikamallick80@gmail.com**
 
@@ -25,5 +29,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=simikamallick&show_icons=true&locale=en&layout=compact" alt="simikamallick" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=simikamallick&show_icons=true&locale=en" alt="simikamallick" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=simikamallick&" alt="simikamallick" /></p>
